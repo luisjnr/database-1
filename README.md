@@ -1,38 +1,47 @@
-# 🗄️ Database I
+# Database I
 
-Repository containing the activities, exercises, and projects developed during the **Database I** course.
+Repository dedicated to the study and practice of **Database Management** using SQL and MySQL.
 
-This repository documents my practical experience with database concepts, SQL, data modeling, and relational database management.
+It contains activities, exercises, and projects developed throughout the Database I course, covering relational databases, data modeling, SQL, and database management.
 
-## 📚 Topics
+## Content
 
-* Database Fundamentals
-* Relational Databases
-* Entity-Relationship Modeling
-* Relational Data Modeling
+### Various banks
+
+Activities and projects involving different database scenarios, including database creation, data modeling, SQL queries, tables, relationships, and data manipulation.
+
+## Topics
+
+* Relational databases
+* Entity-Relationship modeling
+* Relational data modeling
 * SQL
-* Database Creation and Management
-* Tables and Relationships
-* Primary Keys and Foreign Keys
-* Data Manipulation
-* Queries
-* Joins
+* Tables and relationships
+* Primary and foreign keys
 * Constraints
+* Queries and joins
+* Data manipulation
 * Normalization
-* MySQL
 
-## 🛠️ Technologies
+## Technologies
 
-* SQL
-* MySQL
-* MySQL Workbench
-* Git
-* GitHub
+* **SQL**
+* **MySQL**
+* **MySQL Workbench**
+* **Git**
+* **GitHub**
 
-## 🎯 Purpose
+## Organization
 
-The main goal of this repository is to **document and practice the concepts learned throughout the Database I course** through exercises and practical projects.
+```text
+database-1/
+├── Various banks/
+└── README.md
+```
 
-## 📌 Status
+## About
 
-✅ **Completed**
+Academic repository developed during the **Database I** course in the Information Systems degree.
+
+**Database:** MySQL
+**Language:** SQL
